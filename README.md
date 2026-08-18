@@ -1,9 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/a48425e0-09c9-42e1-89e3-034407f5718e" />
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## About Me
-Soy desarrollador backend al inicio de mi carrera. En este perfil comparto proyectos personales, experimentos y código relacionado con backend, APIs y herramientas que voy desarrollando para aprender y mejorar.
 <!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Analytics
 <p align="center">
